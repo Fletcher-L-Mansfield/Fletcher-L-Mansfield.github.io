@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Paper 
 
 [Species Comparison of Salvage Permits in Washington State](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
