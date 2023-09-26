@@ -5,7 +5,7 @@
 ### Paper 
 
 [Species Comparison of Salvage Permits in Washington State](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="pdf/Species Comparison of Salvage Permits in Washington State.pdf?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
