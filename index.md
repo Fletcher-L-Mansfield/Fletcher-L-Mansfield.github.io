@@ -8,7 +8,7 @@
 <img src="pdf/Species Comparison of Salvage Permits in Washington State.pdf?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Network Analysis](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
